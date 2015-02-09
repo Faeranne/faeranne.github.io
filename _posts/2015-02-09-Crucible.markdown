@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "Crucible"
+date:   2015-02-09 00:41:00
+categories: Minecraft
+---
+
+As of today, [Crucible](https://github.com/mrmakeit/Crucible) is ready for the
+public! And by that I mean a version that may or may not be usable for you is
+out there.  Definitely alpha material.
+
+Those outside my close circle of friends may not know what Crucible is.
+Bsically, it's a Minecraft profile editor.  This means it can install modpacks
+without requiring you to login or use a special launcher to run the packs.  By
+installing to a .minecraft location, and using the launchers built-in profiles,
+we avoid the need for anything other than the official launcher.  No passwords,
+no questionable minecraft.jar downloads, and no need to log back in to the main
+launcher when you just want to try the lastest version.
+
+Unlike other launchers (except skcraft), Crucible has an open modpack release
+system.  While I hope to include Public packs in the future, you will always be
+able to use your own privatly hosted packs.  As such, there is no need to file
+big and boring forms, or be limited on how many packs you can release.  Just
+host the files and a pack.json file, and boom! You have your very own private
+mod pack.
+
+Since none of the private packs are regulated, I feel it nessecary to lay down
+some guidelines for what you use, and how to handle licence issues. To do that,
+I've seperated the packs into 3 catagories
+
+Public
+----
+Public packs are hosted and supported by Crucible directly.  These will require
+heavy scrutiny to make sure they comply with mod licences.  As these will be
+more or less endorsed by Crucible, we have to check this stuff.  That also
+means we'll try and help sort out licence issues.
+
+Private
+----
+Private packs are any pack made avalible for anyone to use, but are not hosted 
+directly by Crucible.  Anyone can make one of these.  Since we do not control 
+these packs, pack authors will be required to handle licences themselves.  We
+cannot be held responsible for the contents of these packs, and mod authors
+should contact the pack authors if they feel their mod licence is being violated.
+
+Server
+----
+Server packs are tied to a particular server, and are not intended for use
+beyond that server or set of servers.  Again, anyone can make one of these. The
+licence issues should follow the same rules as for Private packs, as the only
+real difference is the intended audiance.
+
+
+Hopefully this article will help explain what Crucible is, where it's headed,
+and how it may (or may not) impact mod authors and pack authors.  
+Feel free to post issues to the [Github
+Tracker](https://github.com/mrmakeit/Crucible/issues) and leave comments on
+GPlus
