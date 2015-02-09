@@ -55,4 +55,4 @@ Hopefully this article will help explain what Crucible is, where it's headed,
 and how it may (or may not) impact mod authors and pack authors.  
 Feel free to post issues to the [Github
 Tracker](https://github.com/mrmakeit/Crucible/issues) and leave comments on
-GPlus
+[GPlus](https://plus.google.com/103019962147079506840/posts/2VCv2UammRJ)
